@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Data>
+	<Item>
+		<DayOfWeek></DayOfWeek>
+		<DayOfMonth></DayOfMonth>
+		<Month></Month>
+		<Year></Year>
+		<Result></Result>
+	</Item>
+</Data>
